@@ -1,0 +1,17 @@
+{
+  "name": "lost-ark-wei-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Discord Bot for broadcasting Lost Ark Merchant appearance",
+  "author": "Beat Durrer",
+  "repository": "github:bdurrer/lost-ark-wei-bot",
+  "dependencies": {
+    "@microsoft/signalr": "^7.0.2",
+    "discord.js": "^14.7.1"
+  },
+  "engines": {
+    "node": ">=16.14.2",
+    "npm": ">=8.5.0",
+    "yarn": ">=1.22.18"
+  }
+}
